@@ -9,3 +9,7 @@ Getting into the world of cybersecurity.
 - 📫 How to reach me: <br>
 jmiras-s@student.42barcelona.com <br>
 https://www.linkedin.com/in/jeronimomiras/
+
+
+
+
