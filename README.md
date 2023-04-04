@@ -4,6 +4,7 @@ I'm passionate about working on projects that allow me to improve my programming
 I love to learn new things and keep up with the latest technologies, I strive to improve as a programmer every day a step further. 
 Getting into the world of cybersecurity.
 
+
 #### In this profile you will find some of my personal and work projects, as well as collaborations with other developers.
 
 - 📫 How to reach me: <br>
