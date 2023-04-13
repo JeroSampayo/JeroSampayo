@@ -6,6 +6,7 @@ Getting into the world of cybersecurity.
 
 #### In this profile you will find some of my personal and work projects, as well as collaborations with other developers.
 
+
 - 📫 How to reach me: <br>
 jmiras-s@student.42barcelona.com <br>
 https://www.linkedin.com/in/jeronimomiras/
